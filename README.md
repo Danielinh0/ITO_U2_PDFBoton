@@ -287,7 +287,7 @@ Luis Gael Fernadez Crisanto
 
 # Agradecimientos
 - A mi madre por llamarme futuro ingeniero
-- Y a peso pluma por su musica
+- Y a Natanel por su musica
 
 
 
